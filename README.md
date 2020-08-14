@@ -40,9 +40,7 @@
 
 ## Run
 
-![](data/doc-images/appium-wdio-js-test-cases-execution-gif.gif)
-
-![](data/doc-images/appium-wdio-js-test-cases-execution_.gif)
+![](data/doc-images/appium-wdio-js-test-cases-execution.gif)
 
 ```
 "spec" Reporter:
